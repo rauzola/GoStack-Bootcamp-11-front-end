@@ -1,0 +1,8 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rauzola/GoStack-Bootcamp-11-front-end.git",
+  "author": "rauzola <raul_sigoli@hotmail.com>",
+  "license": "MIT"
+}
